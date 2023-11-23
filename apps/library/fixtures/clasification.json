@@ -1,0 +1,50 @@
+[
+    {
+        "id": "f35876acc352455daecbf6fdcc3b56ef",
+        "name": "Libro"
+    },
+    {
+        "id": "a354e8916fe44a5e80556454216b6f82",
+        "name": "E-Book"
+    },
+    {
+        "id": "2023229d1d7a4aec861f7789b7c3d52e",
+        "name": "Artículo de Revista"
+    },
+    {
+        "id": "d5839174201d4031aaec7855fec2170a",
+        "name": "Cursos, Materiales Instruccionales"
+    },
+    {
+        "id": "6e2fda139d3e467f91bb885040edb8ad",
+        "name": "Informes, Documentos de Trabajo"
+    },
+    {
+        "id": "bb42884c9af84887b3c153c0ad69f734",
+        "name": "Material de Divulgación"
+    },
+    {
+        "id": "a5a9e88813164d7a895b57bbace5f514",
+        "name": "Memorias de Conferencia"
+    },
+    {
+        "id": "aa3cb7ef4c664409bc1e5df2eee407e5",
+        "name": "Patente"
+    },
+    {
+        "id": "ef73fa65927a4f628715339fb0c03883",
+        "name": "Tesis Doctoral"
+    },
+    {
+        "id": "677ae58eda8946588c1e345bd8b52e08",
+        "name": "Trabajo de Ascenso"
+    },
+    {
+        "id": "e27d9bf1969a43a4bc16b8a7dc8e8139",
+        "name": "Trabajo de Postgrado"
+    },
+    {
+        "id": "2adb6835b76349c6ac3ac39e61997f5c",
+        "name": "Trabajo de Pregrado"
+    }
+]

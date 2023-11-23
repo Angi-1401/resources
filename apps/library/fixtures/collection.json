@@ -1,0 +1,62 @@
+[
+    {
+        "id": "a9170da0fe9741cb838313356bbf2c1c",
+        "name": "Ambiente"
+    },
+    {
+        "id": "0cfde2666faa4f95b167e9061f640c87",
+        "name": "Calidad de Vida"
+    },
+    {
+        "id": "9e55bc38be2347c9af3dd3bd64219d96",
+        "name": "Ciencias Básicas"
+    },
+    {
+        "id": "9fd9ddd9e90d4b0bb8418c4847c1b76e",
+        "name": "Cultura"
+    },
+    {
+        "id": "49d724378bdb4a1eaebd3edc8f2ba612",
+        "name": "Educación"
+    },
+    {
+        "id": "816378b6695643a0a64ab9cbb9511be0",
+        "name": "Energía"
+    },
+    {
+        "id": "ac5585d48839478b828d0ddaf88732d0",
+        "name": "Ética"
+    },
+    {
+        "id": "ba31563129ac4eb5a24502e8d2e25467",
+        "name": "Geopolítica"
+    },
+    {
+        "id": "de87c2489f25464595aa75bb7db8dd58",
+        "name": "Gestión Universitaria"
+    },
+    {
+        "id": "0b6428fc6df5452da178be0c99d84a5f",
+        "name": "Patrimonio UC"
+    },
+    {
+        "id": "3e063db1166e442a82e0c6ee1de89df3",
+        "name": "Política, Estado, Derecho y Sociedad"
+    },
+    {
+        "id": "404619a71fc44d9ea15c1eddb90a368a",
+        "name": "Salud"
+    },
+    {
+        "id": "65a1346e729149d29c076febff7f5e06",
+        "name": "Sistemas Productivos y Desarrollo Sustentable"
+    },
+    {
+        "id": "7907f4491d584d77b6f78f318de93fc7",
+        "name": "Tecnología"
+    },
+    {
+        "id": "71bead7088884929847018fb6ac2c52c",
+        "name": "Tecnología y Comunicación"
+    }
+]

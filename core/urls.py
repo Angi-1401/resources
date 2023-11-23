@@ -25,7 +25,7 @@ urlpatterns = (
         path("i18n/", include("django.conf.urls.i18n")),
         path("admin/", admin.site.urls),
         # Local paths
-        path("", include("apps.resource.urls")),
+        path("", include("apps.library.urls")),
         # Allauth paths
         path("accounts/", include("allauth.urls")),
     ]

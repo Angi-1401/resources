@@ -1,0 +1,174 @@
+[
+    {
+        "id": "b15da13f84bb4df7851eca28996bf808",
+        "name": "Desconocido"
+    },
+    {
+        "id": "ec63693d5787470ba8e80d1c1a0a94bf",
+        "name": "Adobe PDF (.pdf)"
+    },
+    {
+        "id": "7d0389a250e649699df65f0dd3abaad4",
+        "name": "XML (.xml)"
+    },
+    {
+        "id": "f2fc6fc180724bfe9759a28fa7e5f59e",
+        "name": "Texto (.txt, .asc)"
+    },
+    {
+        "id": "ed5573db191d4c75810ce0e219d23910",
+        "name": "HTML (.htm, .html)"
+    },
+    {
+        "id": "9df66ba40580420195112968587b988b",
+        "name": "Microsoft Word (.doc, .docx)"
+    },
+    {
+        "id": "f6c669c8385d4beea078dd034e4fa92e",
+        "name": "Microsoft PowerPoint (.ppt, .pptx)"
+    },
+    {
+        "id": "64669763864a4b2bb921156d4e330b29",
+        "name": "Microsoft Excel (.xls, .xlsx)"
+    },
+    {
+        "id": "8d167b7a14a44b4992ad11aac57a64c9",
+        "name": "MARC"
+    },
+    {
+        "id": "102486e901da44cd81661d7a51c3b2bc",
+        "name": "JPEG (.jpeg, .jpg)"
+    },
+    {
+        "id": "e5baa51c595b425d8d73cfbb0b856bf3",
+        "name": "GIF (.gif)"
+    },
+    {
+        "id": "5d6c7d5bd3f34b038a6c921963268b44",
+        "name": "PNG (.png)"
+    },
+    {
+        "id": "df4252a690644a9bbd9a1f759d4609a9",
+        "name": "TIFF (.tiff, .tif)"
+    },
+    {
+        "id": "fd7e0ea3761d462e9a5fafc2ada7d1da",
+        "name": "AIFF (.aiff, .aif, .aifc)"
+    },
+    {
+        "id": "ce2e3ac635fc459db272ae06bf731a8d",
+        "name": "Audio Estándar (.au, .snd, .mp3)"
+    },
+    {
+        "id": "41702f0b0f334d0f9f89a3da19415419",
+        "name": "WAV (.wav)"
+    },
+    {
+        "id": "55caa239bdd942c996d9b47422c39762",
+        "name": "MPEG (.mpeg, .mpg, .mpe)"
+    },
+    {
+        "id": "299963f4801c43049a40bb76d5390a87",
+        "name": "RTF (.rtf)"
+    },
+    {
+        "id": "46ac8ee100424c009f10c0b1a389ec67",
+        "name": "Microsoft Visio (.vsd, .vsdx)"
+    },
+    {
+        "id": "51ce809fdd764d7d816cd90948240830",
+        "name": "FMP3 (.fm)"
+    },
+    {
+        "id": "3c4902622bdd4efc8a38b17576ee7db8",
+        "name": "BMP (.bmp)"
+    },
+    {
+        "id": "b46b2e0a282f4ceaaa756b5198dddf6f",
+        "name": "Photoshop (.psd, .pdd)"
+    },
+    {
+        "id": "db280c71af9d43a193bc0badf499af72",
+        "name": "Postscript (.ps, .eps, .ai)"
+    },
+    {
+        "id": "1dcaa1ba07384c7eb0f17e8abcce8895",
+        "name": "Video Quicktime (.mov, .qt)"
+    },
+    {
+        "id": "877e449313d748f5bea9074fb6d718af",
+        "name": "Audio MPEG (.mpa, .abs, .mpega)"
+    },
+    {
+        "id": "f6eccbab3dec482389dd60919b91841f",
+        "name": "Microsoft Project (.mpp, .mppx, .mpx, .mpd)"
+    },
+    {
+        "id": "5d591292d14a4f27a5f852d9be102605",
+        "name": "Mathematica (.ma)"
+    },
+    {
+        "id": "424c83b1fcd74444823ff35e7bf95a62",
+        "name": "LateX (.latex)"
+    },
+    {
+        "id": "b606c870abea41d3827300fa1600021e",
+        "name": "TeX (.tex)"
+    },
+    {
+        "id": "8de8073861cf451a8c4a0352508993be",
+        "name": "TeX DVI (.dvi)"
+    },
+    {
+        "id": "fe543c833ae943deb97819383283f7cf",
+        "name": "SGML (.sgm, .sgml)"
+    },
+    {
+        "id": "0f4f8528c9e74d888c7783a6bf2f07f6",
+        "name": "WordPerfect (.wpd)"
+    },
+    {
+        "id": "ff8b8528c7434fb49085e406ffae0f3f",
+        "name": "RealAudio (.ra, .ram)"
+    },
+    {
+        "id": "0dd6041c5fd2422ead302c44fff2fbd9",
+        "name": "Photo CD (.pcd)"
+    },
+    {
+        "id": "d5d7b147e8834841b3aa5ae1374fa5e0",
+        "name": "ZIP (.zip)"
+    },
+    {
+        "id": "ab71e4147d384980a674153c7dcd9666",
+        "name": "ODT (.odt)"
+    },
+    {
+        "id": "4c6611d702674b16b730c8e465f9beea",
+        "name": "ODS (.ods)"
+    },
+    {
+        "id": "7ba307ad7c5e4704995fc96a031fdeed",
+        "name": "ODP (.odp)"
+    },
+    {
+        "id": "f14ee114308344e5bef59513bb0db3c2",
+        "name": "FLV (.flv)"
+    },
+    {
+        "id": "db7dc46fccf7457b82391a90adf42b6b",
+        "name": "SWF (.swf)"
+    },
+    {
+        "id": "349da8216ddf40c18f9247c8c40e1331",
+        "name": "RDF XML (.rdf)"
+    },
+    {
+        "id": "9f1a207e9e044aeca871deddbd8fbf6e",
+        "name": "MP4 (.mp4)"
+    },
+    {
+        "id": "7cfcb6f6a5cf4c63b914d9a595b9b714",
+        "name": "CSS (.css)"
+    }
+]

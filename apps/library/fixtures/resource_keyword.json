@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "keyword_id": "be523239d22148ed85869539b8e98dc6",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    },
+    {
+        "id": 2,
+        "keyword_id": "3d64152c4a0a45caa215fe530139339f",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    },
+    {
+        "id": 3,
+        "keyword_id": "f5eee59ad5d148c6b274fe7ad0f449d4",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    },
+    {
+        "id": 4,
+        "keyword_id": "92295ea5f2cd43068cf47f34bb6a2791",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    },
+    {
+        "id": 5,
+        "keyword_id": "74ce769af460449eb2001f7965639440",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    },
+    {
+        "id": 6,
+        "keyword_id": "5d08648223974c76a8c76d88f0c4d069",
+        "resource_id": "ec5c9f359f46415ba9e420826fbd27ab"
+    }
+]

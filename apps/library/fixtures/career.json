@@ -1,0 +1,252 @@
+[
+    {
+        "id": "74341ab8dc6f4505aa2fece66fd73849",
+        "name": "Matemáticas",
+        "school_id": "3f30db868b714e87820c33ad97d1f99b"
+    },
+    {
+        "id": "317136f110004dfdb790bd2771dc71b9",
+        "name": "Ciencias Ambientales",
+        "school_id": "424fe90f13594230af2aa22d92c4467d"
+    },
+    {
+        "id": "aa5e621983b24d36b7f27877bba46409",
+        "name": "Química",
+        "school_id": "e8424843d6e64276a4cc2889ac497b97"
+    },
+    {
+        "id": "101f4b75feb847e0b43729728a66bcef",
+        "name": "Biología",
+        "school_id": "92b3e1a1747344bfb011453dd2e88802"
+    },
+    {
+        "id": "cfbdf6d49b444d8ab41fa11b3c8dc44c",
+        "name": "Física",
+        "school_id": "cda9f36d67e1403cba697b737ce9e720"
+    },
+    {
+        "id": "ddeceaf260534df4b887a0b84f849496",
+        "name": "Computación",
+        "school_id": "357ec6bcb3e3456197ac6b7a9627c20f"
+    },
+    {
+        "id": "ee4315f776854cbabdde5c0e415e7682",
+        "name": "Educación",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "a00444fd3a9645e19ff2bae9a05fdfd8",
+        "name": "Educación, Mención Artes Plásticas",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "dd860b257eb24926b8ce3eb8c5c84cdf",
+        "name": "Educación, Mención Biología",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "3bde38308e324ad7bc9e57f20b602588",
+        "name": "Educación, Mención Ciencias Sociales",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "c9eff015bb3148a68ff7f07b357a75f9",
+        "name": "Educación Física, Deportes y Recreación",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "fec05f254d7b4207a277c7da6d5ba663",
+        "name": "Educación Preescolar",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "8edeb991e0dd4a12a1194bea3ca1f274",
+        "name": "Educación Integral",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "d0f13c46aae94d6bb52a3883d1f26c7f",
+        "name": "Educación Musical",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "13ec9e85609545569317406fa50ea985",
+        "name": "Educación para el Trabajo (Comercio)",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "b9a986be30964b3c8aa0bb4cf1e81eb0",
+        "name": "Educación, Mención Física",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "74da4f11b88243aa9bc71eed14ec8d06",
+        "name": "Educación, Mención Francés",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "1aec2ae115c24868a4e36b2db9f227ee",
+        "name": "Educación, Mención Informática",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "7893bb1d5e1b4b48b2b74389e415e8e9",
+        "name": "Educación, Mención Inglés",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "166755b7133a4d78b8d9ccb073aad53a",
+        "name": "Educación, Mención Lengua y Literatura",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "5e23a808faa04030a0ec54989bf84412",
+        "name": "Educación, Mención Matemáticas",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "44578980bc084363804c16e095188bce",
+        "name": "Educación, Mención Orientación",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "5b54039a9827424a834f42c5a8a8e8f5",
+        "name": "Educación, Mención Química",
+        "school_id": "26e2ef0be0004355b449e906c451d467"
+    },
+    {
+        "id": "ee819bea5d9640bd93e69a2c09996595",
+        "name": "Medicina",
+        "school_id": "bac16b2d8d4245e0ba1fbe3d502f8cad"
+    },
+    {
+        "id": "759b8af1d258473da2f3a827a981060e",
+        "name": "Bioanálisis",
+        "school_id": "e7e200bfbdad430e82182fb66de4d4d5"
+    },
+    {
+        "id": "81731c8768d64c89801df4b068306ab8",
+        "name": "Enfermería",
+        "school_id": "91ac7bf72281472ca86c3d527dd32d5b"
+    },
+    {
+        "id": "4c805a1546c84264a0794b7a18fba56f",
+        "name": "Tecnología Cardiopulmonar",
+        "school_id": "9c4178f04b244cc98c7db29b35fc04e4"
+    },
+    {
+        "id": "c25d52ae22c54b2eb414ddbf09265b22",
+        "name": "Citotecnología",
+        "school_id": "9c4178f04b244cc98c7db29b35fc04e4"
+    },
+    {
+        "id": "2b9d2d723a5a41f2b2812e385b6a8198",
+        "name": "Imagenología",
+        "school_id": "9c4178f04b244cc98c7db29b35fc04e4"
+    },
+    {
+        "id": "83575d45ba7c4e7094fbab95c98de902",
+        "name": "Histotecnología",
+        "school_id": "9c4178f04b244cc98c7db29b35fc04e4"
+    },
+    {
+        "id": "80beebb30aa7412682c31f0586520ea6",
+        "name": "Terapia Psicosocial",
+        "school_id": "65a477ff39904a6a9a041406ea51464b"
+    },
+    {
+        "id": "40304d00f17549f5b0a6882b4a5646fb",
+        "name": "Registros y Estadísticas de Salud",
+        "school_id": "65a477ff39904a6a9a041406ea51464b"
+    },
+    {
+        "id": "6d2815c6c1ef4f38985087da5c0e41a7",
+        "name": "Psicología",
+        "school_id": "65a477ff39904a6a9a041406ea51464b"
+    },
+    {
+        "id": "d99e908148914c52827a059214c36dfb",
+        "name": "Fisioterapia",
+        "school_id": "65a477ff39904a6a9a041406ea51464b"
+    },
+    {
+        "id": "7adaad21457c4c05a8f60d7a87fbde89",
+        "name": "Administración Comercial",
+        "school_id": "32a337c48e374401a0ea0e999fa86c41"
+    },
+    {
+        "id": "e36906799803468580eb912b241bce13",
+        "name": "Contaduría Pública",
+        "school_id": "32a337c48e374401a0ea0e999fa86c41"
+    },
+    {
+        "id": "8715a2af3dca4138aa33dacf0932f064",
+        "name": "Relaciones Industriales",
+        "school_id": "df0c361fc0eb4f4e9fec6e01aab3660c"
+    },
+    {
+        "id": "4509f28cacb747acbcd813b0bdc8d189",
+        "name": "Economía",
+        "school_id": "9504db7843be4d54875dc4f728b2abc7"
+    },
+    {
+        "id": "4184058623fb450f9bdc44186d5b1528",
+        "name": "Derecho",
+        "school_id": "10dae7dc718e41c780929fef6e067779"
+    },
+    {
+        "id": "0bcdf0d5f1494a89940404c83585d06b",
+        "name": "Ciencias Forenses",
+        "school_id": "7b615ff3ea514415bc2e0a383a612ad1"
+    },
+    {
+        "id": "be68b27b4f634e2db52c045d8a2aa602",
+        "name": "Ciencias Fiscales",
+        "school_id": "45ff1ac16495466d9d6f5fe5a06d11fa"
+    },
+    {
+        "id": "c896f344ebef44f5984a671f1cc691ef",
+        "name": "Ciencias Políticas",
+        "school_id": "45ff1ac16495466d9d6f5fe5a06d11fa"
+    },
+    {
+        "id": "d0c003fa00864e91bb46eabd4cd06931",
+        "name": "Arquitectura",
+        "school_id": "b659a9ff763b4bfca0306e60033fe90f"
+    },
+    {
+        "id": "cbf64a15991b467f81fb8ba18ea5243b",
+        "name": "Ingeniería Civil",
+        "school_id": "cd7d4ea8320a4449a95f7a6f6b5a4455"
+    },
+    {
+        "id": "60f5471c9da849dfa130ff6cbe7d4749",
+        "name": "Ingeniería Eléctrica",
+        "school_id": "edf0442bb6d74d1095dfeb4cf5df1695"
+    },
+    {
+        "id": "8e780e5cca394ba2b1343f7ca0ddc3fb",
+        "name": "Ingeniería Industrial",
+        "school_id": "44bbab67c9554f11b799632edff680d3"
+    },
+    {
+        "id": "2bd1035c68374e01b5bc15d3ceae6ed7",
+        "name": "Ingeniería Mecánica",
+        "school_id": "d7c11a6e71ac46a8ab2ae2c9f553ee2f"
+    },
+    {
+        "id": "9d791defef3842e59d2d81f1b9fc31f9",
+        "name": "Ingeniería Química",
+        "school_id": "99013242a44648ee96e50e7a116087c9"
+    },
+    {
+        "id": "a670d9b50dce47fab38167ff1c90ddd4",
+        "name": "Ingeniería de Telecomunicaciones",
+        "school_id": "14852667cab04b6b92b55a03be76cfec"
+    },
+    {
+        "id": "7a89715b868b4618b1a72b423040efdd",
+        "name": "Odontología",
+        "school_id": "3a360e4b68bb47ccaa5d4e1d59938b09"
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "3f30db868b714e87820c33ad97d1f99b",
+        "name": "Departamento de Matemáticas"
+    },
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "424fe90f13594230af2aa22d92c4467d",
+        "name": "Departamento de Ciencias Ambientales"
+    },
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "357ec6bcb3e3456197ac6b7a9627c20f",
+        "name": "Departamento de Computación"
+    },
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "e8424843d6e64276a4cc2889ac497b97",
+        "name": "Departamento de Química"
+    },
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "92b3e1a1747344bfb011453dd2e88802",
+        "name": "Departamento de Biología"
+    },
+    {
+        "faculty_id": "a7d32ff4981c401bbb2e2ec15559fe96",
+        "id": "cda9f36d67e1403cba697b737ce9e720",
+        "name": "Departamento de Física"
+    },
+    {
+        "faculty_id": "65ba71ea36314501a9ebdfc6f583b662",
+        "id": "26e2ef0be0004355b449e906c451d467",
+        "name": "Escuela de Educación"
+    },
+    {
+        "faculty_id": "8bff6567c14247f2b87ad75775490708",
+        "id": "bac16b2d8d4245e0ba1fbe3d502f8cad",
+        "name": "Escuela de Medicina"
+    },
+    {
+        "faculty_id": "8bff6567c14247f2b87ad75775490708",
+        "id": "e7e200bfbdad430e82182fb66de4d4d5",
+        "name": "Escuela de Bioanálisis"
+    },
+    {
+        "faculty_id": "8bff6567c14247f2b87ad75775490708",
+        "id": "91ac7bf72281472ca86c3d527dd32d5b",
+        "name": "Escuela de Enfermería"
+    },
+    {
+        "faculty_id": "8bff6567c14247f2b87ad75775490708",
+        "id": "9c4178f04b244cc98c7db29b35fc04e4",
+        "name": "Escuela de Ciencias Biomédicas y Tecnológicas"
+    },
+    {
+        "faculty_id": "8bff6567c14247f2b87ad75775490708",
+        "id": "65a477ff39904a6a9a041406ea51464b",
+        "name": "Escuela de Salud Pública y Desarrollo Social"
+    },
+    {
+        "faculty_id": "04ef191daf37487abdcbfc680bba4c00",
+        "id": "32a337c48e374401a0ea0e999fa86c41",
+        "name": "Escuela de Administración y Contaduría"
+    },
+    {
+        "faculty_id": "04ef191daf37487abdcbfc680bba4c00",
+        "id": "df0c361fc0eb4f4e9fec6e01aab3660c",
+        "name": "Escuela de Relaciones Industriales"
+    },
+    {
+        "faculty_id": "04ef191daf37487abdcbfc680bba4c00",
+        "id": "9504db7843be4d54875dc4f728b2abc7",
+        "name": "Escuela de Economía"
+    },
+    {
+        "faculty_id": "717679a66406479cb431d30dba2b11a9",
+        "id": "10dae7dc718e41c780929fef6e067779",
+        "name": "Escuela de Derecho"
+    },
+    {
+        "faculty_id": "717679a66406479cb431d30dba2b11a9",
+        "id": "7b615ff3ea514415bc2e0a383a612ad1",
+        "name": "Escuela de Ciencias Forenses"
+    },
+    {
+        "faculty_id": "717679a66406479cb431d30dba2b11a9",
+        "id": "45ff1ac16495466d9d6f5fe5a06d11fa",
+        "name": "Escuela de Estudios Políticos y Fiscales"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "b659a9ff763b4bfca0306e60033fe90f",
+        "name": "Escuela de Arquitectura"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "cd7d4ea8320a4449a95f7a6f6b5a4455",
+        "name": "Escuela de Ingeniería Civil"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "44bbab67c9554f11b799632edff680d3",
+        "name": "Escuela de Ingeniería Industrial"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "d7c11a6e71ac46a8ab2ae2c9f553ee2f",
+        "name": "Escuela de Ingeniería Mecánica"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "99013242a44648ee96e50e7a116087c9",
+        "name": "Escuela de Ingeniería Química"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "14852667cab04b6b92b55a03be76cfec",
+        "name": "Escuela de Ingeniería de Telecomunicaciones"
+    },
+    {
+        "faculty_id": "b3f4c21340994c7da25f2eaf2338b05e",
+        "id": "3a360e4b68bb47ccaa5d4e1d59938b09",
+        "name": "Escuela de Odontología"
+    },
+    {
+        "faculty_id": "4270534fd9fe4dc6aa9dcae5748f73a3",
+        "id": "edf0442bb6d74d1095dfeb4cf5df1695",
+        "name": "Escuela de Ingeniería Eléctrica"
+    }
+]
