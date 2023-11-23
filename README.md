@@ -1,27 +1,40 @@
-# Installation (Development)
-*This installation requires Python 12 installed locally
 
-- Windows
-$ python -m venv .venv
-$ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-$ .venv\Scripts\Activate.ps1
-(.venv) $ python -m pip install -r requirements.txt
-(.venv) $ python manage.py migrate
-(.venv) $ python manage.py runserver
+# Resources
 
-- macOS
-$ python3 -m venv .venv
-$ source .venv/bin/activate
-(.venv) $ python3 -m pip install -r requirements.txt
-(.venv) $ python manage.py migrate
-(.venv) $ python manage.py runserver
+Metasearcher for databases
 
-# Installation (Testing)
-*This installation requires Docker installed locally
-** Linux Environment with PostgreSQL Database
+## Installation
 
-- Windows & macOS
-$ docker build .
-$ docker-compose up
+**Development scenario - Windows Environment & SQLite3**\
+_Requires Python 12 installed locally_
 
-Return to 'http://127.0.0.1:8000/' in your browser
+
+Create and activate virtual environment:
+```bash
+    python -m venv .venv
+    Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+    .venv\Scripts\Activate.ps1
+
+```
+Install requirements and initialize server:
+```bash
+    (.venv) python -m pip install -r requirements.txt
+    (.venv) python manage.py migrate
+    (.venv) python manage.py createsuperuser
+    (.venv) python manage.py runserver
+```
+
+**Testing scenario - Linux Environment & PostgreSQL**\
+_Requires Docker installed locally_
+
+
+Build up Docker Container
+```bash
+    docker build .
+    docker-compose up
+```
+Initialize server:
+```bash
+    docker-compose exec web python manage.py migrate
+    docker-compose exec web python manage.py createsuperuser
+```
