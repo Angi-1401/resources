@@ -1,0 +1,34 @@
+{% extends 'layouts/base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% load render_table from django_tables2 %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div class="row">
+    <div class="col-sm-8">
+        <h1 class="fw-light">Recursos</h1>
+        <p class="lead text-body-secondary">
+            Algo breve y convincente sobre la colección que aparece a continuación: su contenido, el creador, etc.
+            Hazlo breve, pero no demasiado corto para que la gente no se lo salte por completo.
+        </p>
+
+        {% render_table table 'django_tables2/bootstrap5.html' %}
+    </div>
+    <div class="col-sm-4">
+        <div class="card w-100 mb-3" style="height: auto;">
+            <div class="card-header">Filtros</div>
+            <div class="card-body justify-content-center">
+                <form action="" method="get" class="form form-inline">
+                    {% if filter.form.media %}
+                    {{ filter.form.media }}
+                    {% endif %}
+                    {{ filter.form|crispy }}
+                    <button class="btn btn-secondary" type="submit">Filtrar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

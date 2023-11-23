@@ -19,13 +19,16 @@ from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import include, path
 
+from . import views
+
 urlpatterns = (
     [
         # Django paths
         path("i18n/", include("django.conf.urls.i18n")),
         path("admin/", admin.site.urls),
         # Local paths
-        path("", include("apps.library.urls")),
+        path("", views.index, name="index"),
+        path("library/", include("apps.library.urls")),
         # Allauth paths
         path("accounts/", include("allauth.urls")),
     ]

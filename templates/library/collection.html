@@ -1,0 +1,36 @@
+{% extends 'layouts/base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+    <div class="col-sm-8">
+        <h1 class="fw-light">Colecciones</h1>
+        <p class="lead text-body-secondary">
+            Algo breve y convincente sobre la colección que aparece a continuación: su contenido, el creador, etc.
+            Hazlo breve, pero no demasiado corto para que la gente no se lo salte por completo.
+        </p>
+
+        <ul class="list-unstyled mt-1 ps-0">
+            {% for collection in collections %}
+            <li class="mb-1"><a href="#" class="text-decoration-none fw-bold">{{ collection.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="col-sm-4">
+        <div class="card w-100 mb-3" style="height: 700px">
+            <div class="card-header">Espacio reservado</div>
+            <div class="card-body">En construcción</div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <div class="card w-100 mt-3" style="height: 400px">
+            <div class="card-header">Espacio reservado</div>
+            <div class="card-body">En construcción</div>
+        </div>
+    </div>
+</div>
+{% endblock %}

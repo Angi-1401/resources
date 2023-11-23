@@ -1,0 +1,48 @@
+{% block extrastyle %}
+<style>
+    #sidebar {
+        width: 250px;
+        position: fixed;
+        height: 100vh;
+        z-index: 999;
+    }
+</style>
+{% endblock %}
+
+<div id="sidebar">
+    <div class="sidebar-header">
+        <a href="{% url 'index' %}" class="d-flex align-items-center p-3 pb-3 mb-3 link-body-emphasis text-decoration-none border-bottom">
+            <span class="fs-5 fw-semibold">Dummy Sidebar</span>
+        </a>
+    </div>
+    <div class="sidebar-items">
+        <ul class="list-unstyled mt-1 ps-0">
+            <li class="mb-1"><a href="{% url 'all' %}" class="text-decoration-none fw-bold">Recursos</a></li>
+            <li class="mb-3 mt-3 border-bottom"></li>
+        </ul>
+        <ul class="list-unstyled mt-1 ps-0"><span class="fw-semibold">Listar</span>
+            <li><a href="{% url 'collections' %}" class="link-body-emphasis">Colecciones</a></li>
+            <li><a href="{% url 'faculties' %}" class="link-body-emphasis">Facultades</a></li>
+            <li><a href="{% url 'publish-date' %}" class="link-body-emphasis">Fecha de Publicación</a></li>
+            <li><a href="{% url 'author' %}" class="link-body-emphasis">Autores</a></li>
+            <li><a href="{% url 'title' %}" class="link-body-emphasis">Títulos</a></li>
+            <li><a href="{% url 'subject' %}" class="link-body-emphasis">Materias</a></li>
+            <li class="mb-3 mt-3 border-bottom"></li>
+        </ul>
+        <ul class="list-unstyled mt-1 ps-0"><span class="fw-semibold">Cuenta</span>
+            {% if not request.user.is_authenticated %}
+            <li><a href="#" class="link-body-emphasis">Registro</a></li>
+            <li><a href="#" class="link-body-emphasis">Inicio de Sesión</a></li>
+            {% else %}
+            <li><a href="#" class="link-body-emphasis">Mi Perfil</a></li>
+            <li><a href="#" class="link-body-emphasis">Cierre de Sesión</a></li>
+            {% endif %}
+            <li class="mb-3 mt-3 border-bottom"></li>
+        </ul>
+        <ul class="list-unstyled mt-1 ps-0"><span class="fw-semibold">Información</span>
+            <li><a href="#" class="link-body-emphasis">Sobre el sitio</a></li>
+            <li><a href="#" class="link-body-emphasis">FAQs</a></li>
+            <li><a href="#" class="link-body-emphasis">Contacto</a></li>
+        </ul>
+    </div>
+</div>

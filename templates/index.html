@@ -1,0 +1,45 @@
+{% extends 'layouts/base.html' %}
+{% load i18n %}
+{% load static %}
+
+{% block content %}
+<div class="row">
+    <div class="col-sm-8">
+        <h1 class="fw-light">Dummy Heading</h1>
+        <p class="lead text-body-secondary">
+            Algo breve y convincente sobre la colección que aparece a continuación: su contenido, el creador, etc.
+            Hazlo breve, pero no demasiado corto para que la gente no se lo salte por completo.
+        </p>
+
+        <form method="GET" class="d-flex" action="#">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" name="q" placeholder="Buscar..." aria-label="Search..."
+                    aria-describedby="button-addon">
+                <button class="btn btn-outline-secondary" type="button" id="button-addon">
+                    <i class="bi bi-search"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+    <div class="col-sm-4">
+        <div class="card w-100 mb-3" style="height: 300px">
+            <div class="card-header">Espacio reservado</div>
+            <div class="card-body">En construcción</div>
+        </div>
+
+        <div class="card w-100 mb-3" style="height: 400px">
+            <div class="card-header">Espacio reservado</div>
+            <div class="card-body">En construcción</div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col">
+        <div class="card w-100 mt-3" style="height: 400px">
+            <div class="card-header">Espacio reservado</div>
+            <div class="card-body">En construcción</div>
+        </div>
+    </div>
+</div>
+{% endblock %}
